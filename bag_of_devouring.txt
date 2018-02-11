@@ -1,0 +1,17 @@
+This bag superficially resembles a Bag of Holding but is a feeding orifice for a gigantic extradimensional creature. Turning the bag inside out closes the orifice.
+
+The extradimensional creature attached to the bag can sens whatever is placed inside the bag.
+	Animal or vegetable matter placed wholly in the bag is devoured and lost forever.
+	When part of a living crature is placed in the bag, there is a 50% chance that the creature is pulled inside the bag.
+	A creature inside the bag can use its action to try to escape with a successful DC 15 STRENGTH check.
+	Another creature can use its action to reach into the bag to pull a creature out(provided it isn't pulled in the bag first), doing so with a successful DC 20 STRENGTH check.
+
+Any creature that starts its turn inside the bag is devoured, its body destroyed.
+
+Inanimate Objects can be stored in the bag, which can hold a cubic foot of such material.
+
+Once each day, the bag swallows any Objects inside it anad spits them out into another plane of existence.
+
+If the bag is pierced or torn, it is destroyed, and anything contained within it is transported to a random location on the Astral Plane.
+
+
