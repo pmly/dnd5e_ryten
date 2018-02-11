@@ -1,0 +1,55 @@
+Ryten
+Half-elf
+Warlock 9
+Sage
+
+"Half-war-elf-lick"
+
+PROFICIENCY BONUS: +4
+
+Stats
+
+STRENGTH:	12 (+1)
+DEXTERITY:	10 (+0)
+CONSTITUTION:	14 (+2)
+INTELLIGENCE:	18 (+4)
+WISDOM:		10 (+0)
+CHARISMA:	20 (+5)
+
+Saves
+STRENGTH:	+1
+DEXTERITY:	+0
+CONSTITUTION:	+2
+INTELLIGENCE:	+4
+WISDOM(P):	+4
+CHARISM(P):	+9
+
+Skills
+
+ATHLETICS:		+1
+
+ACROBATICS:		+0
+SLEIGHT OF HAND:	+0
+STEALTH:		+0
+
+ARCANA(P);		+8
+HISTORY(P):		+8
+INVESTIGATION(P):	+13
+NATURE:			+4
+RELIGION:		+4
+
+ANIMAL HANDLING:	+0
+INSIGHT(P);		+4
+MEDICINE:		+0
+PERCEPTION:		+5
+SURVIVAL:		+0
+
+DECEPTION(P):		+9
+INTIMIDATION:		+5
+PERFORMANCE:		+5
+PERSUATION{(P):		+9
+
+Armor Class:		12
+Hit Points:		24/62
+Temporary Hit Points:	0
+Speed: 			30 Ft
