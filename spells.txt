@@ -1,0 +1,38 @@
+CANTRIP
+---------------------
+Eldritch Blast
+Mage Hand
+Minor Illusion
+Prestidigitation
+Shocking Grasp
+Spare the Dying
+Thaumaturgy
+
+FIRST LEVEL
+---------------------
+Hex
+Silent Image
+
+SECOND LEVEL
+---------------------
+Invisibility
+Misty Step
+Phantasmal Force
+
+THIRD LEVEL
+---------------------
+Counterspell
+Hunger of Hadar
+
+FOURTH LEVEL
+---------------------
+Dominate Beast
+Evard's Black Tentacles
+Polymorph
+
+FIFTH LEVEL
+---------------------
+Dominate Person
+Telekinesis
+
+
